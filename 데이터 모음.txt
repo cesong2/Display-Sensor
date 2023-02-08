@@ -1,36 +1,9 @@
-데이터: 웨어러블 센서를 탑재한 퍼스널 온열 쾌적성 모델
-https://datasetsearch.research.google.com/search?src=0&query=display%20sensor&docid=L2cvMTFsa2drZG05Zw%3D%3D
-웨어러블 호흡 데이터
-https://data.mendeley.com/datasets/9h2y3z8x5r/1
+1. 가설 설정
+불량품에 영향을 주는 요인(센서 top5)
+-> 불량품이 생기는 가장 큰 요인은 이러한 센서들>.??
+->결론/한계점 도출
 
-
-휴대전화 사용 데이터
-(설명) https://datasetsearch.research.google.com/search?src=0&query=display%20sensor&docid=L2cvMTFzZDkyNWhzNg%3D%3D
-(다운 링크) https://sites.google.com/view/mobile-phone-use-dataset?pli=1
-
-핸드폰 스크린 이동 센서인 듯..?
-https://datasetsearch.research.google.com/search?src=0&query=display%20sensor&docid=L2cvMTFqc2tjd2hmaw%3D%3D
-여기서 검색
-
-(설명) Side low color images supporting "Functional movement screen dataset collected with two Azure Kinect depth sensors"
-(다운 링크) https://figshare.com/articles/dataset/Side_low_color_images_supporting_Functional_movement_screen_dataset_collected_with_two_Azure_Kinect_depth_sensors_/17871707
-
-(설명) Side color images supporting "Functional movement screen dataset collected with two Azure Kinect depth sensors"
-(다운 링크) https://plus.figshare.com/articles/dataset/Side_color_images_supporting_Functional_movement_screen_dataset_collected_with_two_Azure_Kinect_depth_sensors_/18108341
-
-(설명) Back color images supporting "Functional movement screen dataset collected with two Azure Kinect depth sensors"
-(다운 링크) 
-https://plus.figshare.com/articles/dataset/Back_color_images_supporting_Functional_movement_screen_dataset_collected_with_two_Azure_Kinect_depth_sensors_/17869013
-
-(설명) Front depth images supporting "Functional movement screen dataset collected with two Azure Kinect depth sensors"
-(다운 링크) 
-https://figshare.com/articles/dataset/Front_depth_images_supporting_Functional_movement_screen_dataset_collected_with_two_Azure_Kinect_depth_sensors_/18126782
-
-(설명) Side DepthImages supporting Paper "Functional movement screen dataset collected with two Azure Kinect depth sensors"
-(다운 링크) 
-https://plus.figshare.com/articles/dataset/Side_DepthImages_supporting_Paper_Functional_movement_screen_dataset_collected_with_two_Azure_Kinect_depth_sensors_/18131234
-
-(설명) Front color images supporting "Functional movement screen dataset collected with two Azure Kinect depth sensors"
-(다운 링크) 
-https://plus.figshare.com/articles/dataset/Front_color_images_supporting_Functional_movement_screen_dataset_collected_with_two_Azure_Kinect_depth_sensors_/18095906
-
+2. 분석내용
+1. 결측치 처리
+2. 기술 통계량(요인별)
+평균, 표준편차, 상관계수
