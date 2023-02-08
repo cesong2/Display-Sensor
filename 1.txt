@@ -1,0 +1,4 @@
+git branch -m main Chan
+git fetch origin
+git branch -u origin/Chan Chan
+git remote set-head origin -a
