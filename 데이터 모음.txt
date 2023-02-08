@@ -1,0 +1,12 @@
+데이터: 웨어러블 센서를 탑재한 퍼스널 온열 쾌적성 모델
+https://datasetsearch.research.google.com/search?src=0&query=display%20sensor&docid=L2cvMTFsa2drZG05Zw%3D%3D
+웨어러블 호흡 데이터
+https://data.mendeley.com/datasets/9h2y3z8x5r/1
+
+
+휴대전화 사용 데이터
+(설명) https://datasetsearch.research.google.com/search?src=0&query=display%20sensor&docid=L2cvMTFzZDkyNWhzNg%3D%3D
+(다운 링크) https://sites.google.com/view/mobile-phone-use-dataset?pli=1
+핸드폰 스크린 이동 센서인 듯..?
+https://datasetsearch.research.google.com/search?src=0&query=display%20sensor&docid=L2cvMTFzcjg3NnRkNg%3D%3D
+https://datasetsearch.research.google.com/search?src=0&query=display%20sensor&docid=L2cvMTFzY2RwcF94ag%3D%3D
