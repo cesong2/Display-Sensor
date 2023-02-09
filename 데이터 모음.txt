@@ -3,8 +3,8 @@
 https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 >> Microsoft Azure Predictive Maintenance
 https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance?select=PdM_telemetry.csv
-Predictive Maintenance Dataset
-
+>>Predictive Maintenance Dataset
+https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset
 
 구글ppt 링크
 https://docs.google.com/presentation/d/1MTQY0H50dB2YSVfsqvr98J0HkSLn97RkMOHDenY8X3o/edit?usp=sharing
