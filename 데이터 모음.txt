@@ -1,3 +1,7 @@
+구글ppt 링크
+https://docs.google.com/presentation/d/1MTQY0H50dB2YSVfsqvr98J0HkSLn97RkMOHDenY8X3o/edit?usp=sharing
+
+
 1. 가설 설정
 불량품에 영향을 주는 요인(센서 top5)이 있을 것이다.
 -> 불량품이 생기는 가장 큰 요인은 이러한 센서들 때문임을 찾아낼 것.
