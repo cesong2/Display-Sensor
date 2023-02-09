@@ -1,3 +1,6 @@
+데이터 링크 (Machine Predictive Maintenance Classification 기계 예측 유지 보수 분류)
+https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
+
 구글ppt 링크
 https://docs.google.com/presentation/d/1MTQY0H50dB2YSVfsqvr98J0HkSLn97RkMOHDenY8X3o/edit?usp=sharing
 테마
