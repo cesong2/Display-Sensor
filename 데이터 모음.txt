@@ -10,6 +10,10 @@ Predictive Maintenance Dataset (AI4I 2020) C ->
 https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset 
 
 
+>>(데이터 분석 시 참고) 데이터 분석해놓은 블로그
+https://medium.com/@Medini_2020/predictive-maintenance-using-machine-learning-3d8b62d5df8e
+
+
 구글ppt 링크
 https://docs.google.com/presentation/d/1MTQY0H50dB2YSVfsqvr98J0HkSLn97RkMOHDenY8X3o/edit?usp=sharing
 테마
