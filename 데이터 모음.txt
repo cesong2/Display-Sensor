@@ -1,11 +1,11 @@
 데이터 링크
 >> Machine Predictive Maintenance Classification 기계 예측 유지 보수 분류 C
 https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
->> Microsoft Azure Predictive Maintenance
+>> Microsoft Azure Predictive Maintenance -> 
 https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance?select=PdM_telemetry.csv
 >>Predictive Maintenance Dataset
 https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset
-Predictive Maintenance Dataset (AI4I 2020) C
+Predictive Maintenance Dataset (AI4I 2020) C ->
 >>https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
 https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset 
 
