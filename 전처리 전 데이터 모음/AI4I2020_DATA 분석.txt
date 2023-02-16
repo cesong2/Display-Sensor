@@ -1,12 +1,15 @@
-1.  failure 유무 분석
+1. DATA 전처리 
+  1) 분석에 불필요한 컬럼 (UDI, Product ID) 제거
+  2) failure 유형 TWF(tool ware 고장 원인 확인 가능/46개), RNF(원인 불명 원인/19개) 분류된 행 data 값 및 열 삭제
+2.  failure 유무 분석
   1) 변수(5개) 평균 값 등 비교 (에러 있는게 높은지 낮은지)
   2) failure 있는 경우 만 분석
      -failure 유형 (TWF,HDF,PWF,OSF,RNF) 중 failure 로 분류되지 않은 18개 data 보유한 RNF 컬럼 제외 후 분석함
   3) failure 별 5가지 변수 (Air temperature,	Process temperature, Rotational speed, Torque, Tool wear)
-     와의 상관관계 분석함
-  4) failure 없는 경우 중 RNF 에 대한 5가지 변수 상관관계 분석함 (데이터 수가 18개로 가독성 떨어지나 row 데이터에서 언급되어 분석해봄)  
-  5) failure 유, 무 데이터의 5변수에 대한 비교 그래프 생성
-     - 상관관계는 Heatmap 으로, 주요 요인 산점도 그래프로 표현  
-2. type (H,M,L) 별 분석
+     와의 상관관계 분석함 (상관관계는 Heatmap 으로, 주요 요인 산점도 그래프로 표현)
+  4) failure 유, 무 비교 분석 (예정)   
+  5) failure 없는 경우 중 RNF 에 대한 5가지 변수 상관관계 분석함 (데이터 수가 18개로 가독성 떨어지나 row 데이터에서 언급되어 분석해봄) 
+  6) 추가적인 DATA 분석 (회귀 분석 등) (예정)
+3. type (H,M,L) 별 분석
    1) 전체 DATA 중 type 들과  failure 합계 및 유형별 갯수 Pivot table 산출 및 Heat map 표시  
    2) type 별 failure 발생 건수 / failure 유형들과의 비교 분석 및 그래프 생성 (예정)   
