@@ -34,7 +34,13 @@ PdM_telemetry - 시계열정보 / 시간, 기계id, 전압, 회전, 압력, 진�
 
 
 >>데이터2 내용 설명
-
+Predictive Maintenance(예측 유지보수 데이터)
+UID, product ID, type : 고유 식별자 및 제품 유형
+air temperature(기온), process temperature(공정 온도), rotational speed(회전 속도), Torque(돌림힘), tool wear(공구 마모 시간)
+: 제품 생산에 영향을 끼치는 여러가지 변수들
+machine failure : 기계 고장이 일어났는지 여부에 따라 0과 1로 나타낸 것
+TWF(공구 마모), HDP(열 방산), PWF(동력 이상), OSF(과부하), RNF(무작위)
+: 어떤 원인으로 기계 고장이 일어났는지에 따라 0과 1로 나타낸 것
 
 >>데이터2 분석
 1. 기초 분석
