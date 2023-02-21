@@ -1,0 +1,2 @@
+<코랩에서 이미지 save>
+plt.savefig('test.png', transparent = 'True')
