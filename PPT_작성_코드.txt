@@ -1,2 +1,9 @@
 <코랩에서 이미지 save>
 plt.savefig('test.png', transparent = 'True')
+
+<title>
+ax1.set(title='데이터 비교: 열방산 / 기온')
+ax2.set(title='데이터 비교 : 열방산 / 공정온도')
+ax3.set(title='데이터 비교 : 열방산 / 회전속도')
+ax4.set(title='데이터 비교 : 열방산 / 회전력')
+ax5.set(title='데이터 비교 : 열방산 / 공구 마모 시간')
