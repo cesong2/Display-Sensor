@@ -1,2 +1,21 @@
 <코랩에서 이미지 save>
 plt.savefig('test.png', transparent = 'True')
+
+<title>
+ax1.set(title='데이터 비교: 열방산 / 기온')
+ax2.set(title='데이터 비교 : 열방산 / 공정온도')
+ax3.set(title='데이터 비교 : 열방산 / 회전속도')
+ax4.set(title='데이터 비교 : 열방산 / 회전력')
+ax5.set(title='데이터 비교 : 열방산 / 공구 마모 시간')
+
+<'고장 여부'의 0과 1을 '정상'과 '고장'으로>
+import copy
+df_고장 = copy.deepcopy(df) # 깊은 복사
+
+df_고장['고장 여부'] = df_고장['고장 여부'].apply(lambda x : '고장' if x == 1 else '정상')
+df_고장['고장 원인 : 공구 마모'] = df_고장['고장 원인 : 공구 마모'].apply(lambda x : '고장' if x == 1 else '정상')
+df_고장['고장 원인 : 열 방산'] = df_고장['고장 원인 : 열 방산'].apply(lambda x : '고장' if x == 1 else '정상')
+df_고장['고장 원인 : 동력 이상'] = df_고장['고장 원인 : 동력 이상'].apply(lambda x : '고장' if x == 1 else '정상')
+df_고장['고장 원인 : 과부하'] = df_고장['고장 원인 : 과부하'].apply(lambda x : '고장' if x == 1 else '정상')
+df_고장['고장 원인 : 무작위'] = df_고장['고장 원인 : 무작위'].apply(lambda x : '고장' if x == 1 else '정상')
+df_고장
