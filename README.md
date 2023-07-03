@@ -92,3 +92,37 @@ Part 1:
             <과부하> 207 (평균), 172(min), 197(¼), 207 (median), 216 (¾), 253 (max)
              <정상>  106 (평균),   0(min),  52(¼), 107 (median), 160 (¾), 246 (max)
 #             
+
+노션 링크(데이터 총 정리)
+https://absorbed-stream-8dd.notion.site/637486def24643d8b2bc9f491251c587
+
+데이터 폴더
+https://drive.google.com/drive/folders/13pYx7XX-hs5gUUGVJjnaIMbGhE_FSZ8O?usp=share_link
+
+
+데이터 링크
+>> Machine Predictive Maintenance Classification 기계 예측 유지 보수 분류 C
+https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
+>> Microsoft Azure Predictive Maintenance -> 
+https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance?select=PdM_telemetry.csv
+>>Predictive Maintenance Dataset
+https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset
+Predictive Maintenance Dataset (AI4I 2020) C ->
+>>https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
+https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset 
+
+
+>>(데이터 분석 시 참고) 데이터 분석해놓은 블로그
+https://medium.com/@Medini_2020/predictive-maintenance-using-machine-learning-3d8b62d5df8e
+
+
+구글ppt 링크
+https://docs.google.com/presentation/d/1CUEw3hKR2ayU5mRlvH3K6NZ73LfyuW8bFtEZqRobyPY/edit?usp=sharing
+
+구글 PPT 발표용
+https://docs.google.com/presentation/d/1yRfBv28OMeRLNcuDb8mNpxJdJiXmJu2tsrm5aVsrRVs/edit#slide=id.g1dd3d26bf8f_0_327
+
+테마
+https://slidesgo.com/ko/%ED%85%8C%EB%A7%88/%EA%B8%B0%EC%88%A0-%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0#position-1&rs=home-popular
+https://www.freepik.com/free-vector/digital-grid-technology-background-vector-white-tone_16252257.htm#query=it%20tech%20background%20image%20white&position=18&from_view=search&track=ais
+
