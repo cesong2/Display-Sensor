@@ -124,7 +124,7 @@ Part 1:
 #             
 -----------------------------------------------------------------------------------------
 - 노션 링크(데이터 총 정리)
-https://absorbed-stream-8dd.notion.site/637486def24643d8b2bc9f491251c587
+https://www.notion.so/637486def24643d8b2bc9f491251c587?pvs=4
 
 - 데이터 폴더
 https://drive.google.com/drive/folders/13pYx7XX-hs5gUUGVJjnaIMbGhE_FSZ8O?usp=share_link
